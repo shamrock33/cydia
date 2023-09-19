@@ -1,0 +1,8 @@
+Origin: shamrock
+Label: shamrock
+Suite: stable
+Version: 0.1
+Codename: shamrock
+Architectures: iphoneos-arm
+Components: main
+Description: shamrock
