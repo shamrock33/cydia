@@ -45,7 +45,6 @@ Name: callhsfollow
 Package: re.frida.server
 Version: 14.2.18
 Architecture: iphoneos-arm
-Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
 Installed-Size: 49764
 Conflicts: re.frida.server64
 Filename: debs/frida_14.2.18_iphoneos-arm.deb
