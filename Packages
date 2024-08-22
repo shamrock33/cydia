@@ -28,6 +28,20 @@ Description: 抖音新版本，协助抓包插件，有问题可以关注微信�
 Author: zzzz
 Name: dypdis
 
+Package: com.xxy.callhsfollow
+Version: 0.1-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.xxy.callhsfollow_0.1-2_iphoneos-arm.deb
+Size: 114538
+MD5sum: 3e19311462151af4405b3685a3db7bbc
+SHA1: 714f764a1417db6c05ce9e05587269b590e031b6
+SHA256: 4371cb79a094723c1471403c36894ae608bd1003666fad1790c7f09c50d6cfe6
+Section: System
+Priority: optional
+Author: xxy-632
+Name: callhsfollow
+
 Package: re.frida.server
 Version: 14.2.18
 Architecture: iphoneos-arm
