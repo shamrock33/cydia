@@ -1,0 +1,62 @@
+Package: com.disableAweme.proxy
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/dy_catch.deb
+Size: 3370
+MD5sum: bf132c9429637fe21e1d5e2a92d7971e
+SHA1: 55e74e278cdde71671473fcb757605f4d1c7938f
+SHA256: 028462010a21d177a7358b38f68ffac5dbe132159fac2ef6791805f7991fd32f
+Section: System
+Priority: optional
+Description: 抖音新版本抓包插件
+Author: zxc
+Name: dypdis
+
+Package: com.disableAweme.proxy
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/dy_jsb.deb
+Size: 3302
+MD5sum: 77b351733d17a793512efdeaa1e8f12e
+SHA1: f6c179da5a2ee840e75c66c51f4bb1816cb7f5b1
+SHA256: 8489889b66a8384a1746ad4743b2f9a08b1e5be6a81e8bca2ba7dfc9e5773cd1
+Section: System
+Priority: optional
+Description: 抖音新版本，协助抓包插件，有问题可以关注微信公众号《小白技术社》，仅用于学习交流使用
+Author: zzzz
+Name: dypdis
+
+Package: com.xxy.callhsfollow
+Version: 0.1-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.xxy.callhsfollow_0.1-2_iphoneos-arm.deb
+Size: 114538
+MD5sum: 3e19311462151af4405b3685a3db7bbc
+SHA1: 714f764a1417db6c05ce9e05587269b590e031b6
+SHA256: 4371cb79a094723c1471403c36894ae608bd1003666fad1790c7f09c50d6cfe6
+Section: System
+Priority: optional
+Author: xxy-632
+Name: callhsfollow
+
+Package: re.frida.server
+Version: 14.2.18
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 49764
+Conflicts: re.frida.server64
+Filename: debs/frida_14.2.18_iphoneos-arm.deb
+Size: 12746640
+MD5sum: 6dfd7191701385eaf0a109fd7ad38302
+SHA1: b3b0431ebe560f513880e239c26317a152c66b8c
+SHA256: c8e158e0ad53d25fdf2e6fa00e96ebec8ff03971cd8479587109c9b26db989b0
+Section: Development
+Priority: optional
+Homepage: https://www.frida.re/
+Description: Inject JavaScript to explore iOS apps over USB.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
