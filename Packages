@@ -29,6 +29,21 @@ Description: 抖音新版本抓包插件
 Author: zxc
 Name: dypdis
 
+Package: com.disableAweme.proxy
+Version: 0.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/dy_jsb.deb
+Size: 3302
+MD5sum: 77b351733d17a793512efdeaa1e8f12e
+SHA1: f6c179da5a2ee840e75c66c51f4bb1816cb7f5b1
+SHA256: 8489889b66a8384a1746ad4743b2f9a08b1e5be6a81e8bca2ba7dfc9e5773cd1
+Section: System
+Priority: optional
+Description: 抖音新版本，协助抓包插件，有问题可以关注微信公众号《小白技术社》，仅用于学习交流使用
+Author: zzzz
+Name: dypdis
+
 Package: com.xxy.callhsfollow
 Version: 0.1-2
 Architecture: iphoneos-arm
@@ -44,6 +59,24 @@ Author: xxy-632
 Name: callhsfollow
 
 Package: re.frida.server
+Version: 14.2.18
+Architecture: iphoneos-arm
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 49764
+Conflicts: re.frida.server64
+Filename: debs/frida_14.2.18_iphoneos-arm.deb
+Size: 12746640
+MD5sum: 6dfd7191701385eaf0a109fd7ad38302
+SHA1: b3b0431ebe560f513880e239c26317a152c66b8c
+SHA256: c8e158e0ad53d25fdf2e6fa00e96ebec8ff03971cd8479587109c9b26db989b0
+Section: Development
+Priority: optional
+Homepage: https://www.frida.re/
+Description: Inject JavaScript to explore iOS apps over USB.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
 Version: 16.1.4
 Architecture: iphoneos-arm
 Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
@@ -54,6 +87,24 @@ Size: 17921232
 MD5sum: 109094ed89237b137022f6924173ea30
 SHA1: 8d08594bc51f074bfc2c394a74e3e40efa65f5d0
 SHA256: 8439e333f26bcc934b45d6756262492d5ce66891d594895bd45245a730938566
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
+Package: re.frida.server
+Version: 16.1.4
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60104
+Conflicts: re.frida.server64
+Filename: debs/frida_16.1.4_iphoneos-arm64.deb
+Size: 17921044
+MD5sum: 21033ae5e6ce422be5c4b4b806bf9d0f
+SHA1: 2dae125619eb321f656ebdf1634de9e50c527785
+SHA256: 1452fc2ae81e17e8dd0b84bffafbcb6b9cfb045425c3df0db35a4958367af748
 Section: Development
 Priority: optional
 Homepage: https://frida.re/

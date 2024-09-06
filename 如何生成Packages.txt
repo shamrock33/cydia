@@ -6,7 +6,7 @@ sudo apt-get install dpkg-dev
 # 进入这个目录才能通过linux子系统看到win下的文件
 cd /mnt
 #将位于debs目录的所有deb包扫描并生成Packages
-dpkg-scanpackages debs /dev/null > Packages
+dpkg-scanpackages -m debs /dev/null > Packages
 #生成客户端可能需要的gz和bz2压缩的Packages
 gzip -c Packages > Packages.gz
 bzip2 -k Packages
