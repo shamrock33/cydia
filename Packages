@@ -76,6 +76,43 @@ Description: 抖音新版本，协助抓包插件，有问题可以关注微信�
 Author: zzzz
 Name: dypdis
 
+Package: com.zxc.frpc
+Version: 0.48.0
+Architecture: iphoneos-arm
+Maintainer: zxc
+Installed-Size: 13084
+Conflicts: frpc
+Filename: debs/frpc_0.48.0.deb
+Size: 3509120
+MD5sum: 21270c026b3705cef76bb0df2dd41ec6
+SHA1: 5950af57fc14408bce96e045cf1a66fd3345f2d5
+SHA256: 715363543abde253c6db57fe8c0412871d0005dd8b3b46a3babb7cf4ad6e4222
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要将frpc.ini放在/var目录下
+Author: zxc
+Name: FRPC
+
+Package: com.zxc.frpc-rootless
+Version: 0.48.7
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 13016
+Depends: libiosexec1
+Conflicts: frpc
+Filename: debs/frpc_rootless_0.48.7.deb
+Size: 3506676
+MD5sum: dc6097e8a8d8e8a8a7d580f4b95a832d
+SHA1: 6f7f17b3d981fc8ca6a0f30498944ed7d07e6b9d
+SHA256: f4b22485b8f75bf96a85e89956239268e5b43d84ad5592560d7eb91afb5ff22d
+Section: Development
+Priority: optional
+Homepage: https://zhaoboy9692.github.io/repo
+Description: frp的client端,需要在ios的ssh里面修改/var/frpc.ini,后需要ssh执行frpc -c /var/frpc.ini &，更多好用插件微信关注《小白技术社》获取
+Author: zxc
+Name: frpc-rootless
+
 Package: re.frida.server
 Version: 14.2.18
 Architecture: iphoneos-arm
