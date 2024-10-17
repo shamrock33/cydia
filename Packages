@@ -1,14 +1,14 @@
 Package: com.angel.awemecatch
-Version: 0.0.1
+Version: 2.0.0
 Architecture: iphoneos-arm64
 Maintainer: silence
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.angel.awemecatch_0.0.1_iphoneos-arm64.deb
-Size: 3266
-MD5sum: a9b3e73bd7667ef2995f6d4df308663b
-SHA1: a0ae7ec959c7e11d207845cf49454bff76cba12e
-SHA256: fcbd617c2e376834958dc82af024756383de537edcab61e4f95104acf7385390
+Filename: debs/com.angel.awemecatch_2.0.0_iphoneos-arm64.deb
+Size: 3306
+MD5sum: e281d0165f497f582bd2541a1d8eacc0
+SHA1: eef1055cbc1fc30db3a48edfbaf886531340ed9d
+SHA256: b07f64d1c59d40286dec546c8e9f16531b2204c5479225f48428307f1264cc9b
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: silence
