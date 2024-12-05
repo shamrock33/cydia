@@ -3,8 +3,8 @@ win10上进入商店安装unbutu
 执行步骤1~4，重启之后重新打开
 # 安装命令
 sudo apt-get install dpkg-dev
-# 进入这个目录才能通过linux子系统看到win下的文件
-cd /mnt
+# 进入mnt这个目录才能通过linux子系统看到win下的文件
+cd /mnt/c/new_rank_python_code/cydia
 #将位于debs目录的所有deb包扫描并生成Packages
 dpkg-scanpackages -m debs /dev/null > Packages
 #生成客户端可能需要的gz和bz2压缩的Packages
