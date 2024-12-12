@@ -14,6 +14,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: silence
 Name: AwemeCatch
 
+Package: com.angel.dogforge64
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: silence
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.angel.dogforge64_1.0.0_iphoneos-arm64.deb
+Size: 83304
+MD5sum: f27c233a01189a352ca19c591b50af53
+SHA1: 4582c16fffa1dc42dffba57f2318bb368f717f8f
+SHA256: 29616264cde16bdf1488ef563b971fc8225df187f709367084a3eafa86e1555b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: silence
+Name: DogForge64
+
 Package: com.angel.lunaforge32
 Version: 1.0.0
 Architecture: iphoneos-arm
