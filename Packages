@@ -158,6 +158,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: silence
 Name: LunaForge64
 
+Package: com.angel.lunaforge64
+Version: 4.3.0
+Architecture: iphoneos-arm64
+Maintainer: silence
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.angel.lunaforge64_4.3.0_iphoneos-arm64.deb
+Size: 86432
+MD5sum: e581c7af9d299ebcc389ae5a2d1d4747
+SHA1: cda6e04cc39cfa83ec5e350a6324f5cc78150cf4
+SHA256: 52d5b258d63379e87e648b6329144d4f0e7f5b5fddc50e24d5d35a49cb45e844
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: silence
+Name: LunaForge64
+
 Package: com.disableAweme.proxy
 Version: 0.1
 Architecture: iphoneos-arm
